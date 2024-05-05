@@ -15,7 +15,7 @@ body {
 #gif-container {
     margin: 20px;
     border: 15px solid;
-    border-image: url(NYAN.gif) 30 / 15px / 5px stretch;
+    border-color: aliceblue;
 }
 
 #buttons {
