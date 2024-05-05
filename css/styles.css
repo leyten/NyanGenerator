@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: #003068;
     font-family: Arial, sans-serif;
 }
 
@@ -14,6 +14,8 @@ body {
 
 #gif-container {
     margin: 20px;
+    border: 15px solid;
+    border-image: url(NYAN.gif) 30 / 15px / 5px stretch;
 }
 
 #buttons {
